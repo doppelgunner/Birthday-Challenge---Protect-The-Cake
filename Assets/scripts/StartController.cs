@@ -5,7 +5,7 @@ public class StartController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Screen.SetResolution(400,400,true);
+        Screen.SetResolution(500,500,false);
         Audio.PlayBGM(Audio.BGM_START, 0.3f);
 	}
 	
