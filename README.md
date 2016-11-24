@@ -2,8 +2,8 @@
 My first birthday challenge: make a game with "candle" as the theme. I failed this one cause I was not able to finish everything in just one day. But I got the sprites ready on time its just that Im not that familiar yet with unity.
 
 * Play the game here: https://doppelgunner.github.io/Birthday-Challenge_Protect-The-Cake/
-* [Youtube Demo](https://youtu.be/h0X45Pi88Dg)
-* [Youtube process](https://youtu.be/sPje4L87xMg)
+* [Birthday Challenge: Protect the Cake youtube demo](https://youtu.be/h0X45Pi88Dg)
+* [Birthday Challenge: Protect the Cake youtube process](https://youtu.be/sPje4L87xMg)
 
 * My Accounts 
   * [blogspot](http://doppelgunner.blogspot.com/)
