@@ -8,6 +8,7 @@ My first birthday challenge: make a game with "candle" as the theme. I failed th
 * Play the game here: https://doppelgunner.github.io/Birthday-Challenge_Protect-The-Cake/
 * [Birthday Challenge: Protect the Cake youtube demo](https://youtu.be/h0X45Pi88Dg)
 * [Birthday Challenge: Protect the Cake youtube process](https://youtu.be/sPje4L87xMg)
+* [Download unity package here](https://github.com/doppelgunner/Birthday-Challenge_Protect-The-Cake/releases/)
 
 * My Accounts 
   * [blogspot](http://doppelgunner.blogspot.com/)
